@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, OpenCV, Flask, Kafka, Grafana and Many more**
 
-- 📫 How to reach me **official.abhimanyu.jham@gmail.com**
+- 📫 Reach me **official.abhimanyu.jham@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
